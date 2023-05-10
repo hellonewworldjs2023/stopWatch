@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    margin:0;
+}
+.button{
+    color: white;
+    background-color: midnightblue;
+    margin:0 10px 0 10px;
+}
+.start-button, .stop-button{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.reset-button,.lap-button{
+    height:40px;
+    width:50px;
+    border-radius: 25px;
+}
